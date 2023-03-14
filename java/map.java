@@ -7,6 +7,9 @@ public interface map {
     private double longitude;
 
 
+    /**
+     *
+     */
     public map() {
 
     }
