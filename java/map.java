@@ -23,5 +23,9 @@ public interface map {
 
     }
 
+    public static void locationMyself(){
+
+    }
+
 
 }
