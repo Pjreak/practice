@@ -3,7 +3,7 @@
 int main(){
     using namespace std;
 
-    char*name=new char[20];
+    char*name=new char[10];
     int age;
 
     cout<<"what's your name ?"<<endl;
