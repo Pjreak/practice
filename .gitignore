@@ -1,4 +1,9 @@
-#ignore ./idea
+#ignore some unuseful file
 .idea/
 
 .vscode/
+
+*.class
+
+*.exe
+
